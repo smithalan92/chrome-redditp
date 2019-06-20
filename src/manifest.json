@@ -1,0 +1,10 @@
+{
+    "name": "Chrome RedditP",
+    "description": "Add a context menu for viewing subreddit images using redditp",
+    "version": "1.0.0",
+    "permissions": ["contextMenus"],
+    "background": {
+      "scripts": ["index.js"]
+    },
+    "manifest_version": 2
+  }
